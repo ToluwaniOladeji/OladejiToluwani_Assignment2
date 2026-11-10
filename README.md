@@ -5,7 +5,7 @@ A Flutter mobile app that lets students report campus problems (water and electr
 Built for Individual Assignment 2 (Formative) by **Oladeji Toluwani Jephthae**.
 
 - **Repository:** https://github.com/ToluwaniOladeji/OladejiToluwani_Assignment2.git
-- **Demo video:** [paste link]
+- **Demo video:** Campus_incident_app Demo Video
 - **Technical report:** submitted separately as a PDF through Canvas
 
 ## Features
